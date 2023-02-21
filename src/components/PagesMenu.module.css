@@ -1,0 +1,8 @@
+.pageMenuWrapper {
+  background-color: rgb(197, 218, 219);
+  text-align: center;
+  height: 50px;
+}
+.pageMenuWrapper a {
+  margin: 20px;
+}
