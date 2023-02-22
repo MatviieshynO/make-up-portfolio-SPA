@@ -1,0 +1,9 @@
+.active {
+  font-size: 18px;
+  color: rgb(174, 174, 36);
+  border-bottom: 1px solid rgb(174, 174, 36);
+}
+.App {
+  width: 97%;
+  margin: 0 auto;
+}

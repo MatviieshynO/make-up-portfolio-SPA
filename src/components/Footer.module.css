@@ -1,4 +1,8 @@
 .footerWrapper {
-  margin-top: 500px;
-  background-color: aqua;
+  height: 100%;
+  width: 100%;
+  background-color: silver;
+  text-align: center;
+  margin-top: 25px;
+  flex-shrink: 0;
 }

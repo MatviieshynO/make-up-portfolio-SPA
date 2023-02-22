@@ -1,0 +1,10 @@
+.headerWrapper {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+.headerWrapper img {
+  height: 120px;
+  width: 180px;
+  border-bottom: 1px solid rgb(174, 174, 36);
+}
